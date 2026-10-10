@@ -14,7 +14,7 @@ Estamos en Neuquén y trabajamos con todo el país.
 
 ### 📱 Probá las demos
 
-Siete demos por rubro, en modo prueba: se abren desde el celu, se prueban con un toque y no piden cuentas ni
+Trece demos por rubro, en modo prueba: se abren desde el celu, se prueban con un toque y no piden cuentas ni
 contraseñas. Hasta podés verlas con los colores de tu negocio.
 
 👉 **[Ver el catálogo](https://sazzo-digital.github.io/?o=github)**
@@ -26,6 +26,12 @@ contraseñas. Hasta podés verlas con los colores de tu negocio.
 - 🔧 **Taller**: talleres mecánicos
 - 🌸 **Perfumería**: perfumerías y tiendas de cosmética
 - 🍽️ **Restix**: bares y restaurantes
+- 📊 **Contable**: pymes, comercios y profesionales que facturan
+- 📚 **Librería**: librerías y papelerías
+- 🔩 **Ferretería**: ferreterías y corralones
+- 🥩 **Carnicería**: carnicerías, pollerías y granjas
+- 🏋️ **Gimnasio**: gimnasios, funcional y pilates
+- 🏠 **Inmobiliaria**: inmobiliarias y martilleros
 
 ### 💬 Hablemos
 
