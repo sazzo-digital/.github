@@ -17,7 +17,7 @@ Estamos en Neuquén y trabajamos con todo el país.
 Trece demos por rubro, en modo prueba: se abren desde el celu, se prueban con un toque y no piden cuentas ni
 contraseñas. Hasta podés verlas con los colores de tu negocio.
 
-👉 **[Ver el catálogo](https://sazzo-digital.github.io/?o=github)**
+👉 **[Ver el catálogo](https://sazzo.com.ar/?o=github)**
 
 - 🚚 **Flota**: empresas con vehículos (remiserías, fleteras, distribuidoras)
 - 🏪 **Kiosco**: kioscos, almacenes y dietéticas
